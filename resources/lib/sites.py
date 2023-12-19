@@ -56,11 +56,11 @@ SITES = [
     "searchable": True,
     "sites": [
       {
-        "name": "fmovies.to",
+        "name": "hoathinh4k.net",
         "logo": "https://i.ibb.co/JzZDxGM/image.png",
-        "className": "fmovies",
-        "plugin": "fmovies.plugin",
-        "version": 31
+        "className": "hoathinh4k",
+        "plugin": "hoathinh4k.plugin",
+        "version": 1
       },
       {
         "name": "hayghex.net",
